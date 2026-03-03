@@ -2,7 +2,7 @@ import requests
 import json
 from currency_converter import CurrencyConverter
 
-url = 'https://api.scryfall.com/cards/search?order=cmc&q=skateboard'
+url = 'https://api.scryfall.com/cards/search?order=cmc&q=one+ring'
 
 # A GET request to the API
 response = requests.get(url)
