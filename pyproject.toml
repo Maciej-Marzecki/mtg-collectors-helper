@@ -1,0 +1,10 @@
+[project]
+name = "mtg-collectors-helper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9,<3.10"
+dependencies = [
+    "currencyconverter>=0.18.15",
+    "requests>=2.32.5",
+]

@@ -1,5 +1,4 @@
 import requests
-import json
 from time import sleep
 from pathlib import Path
  
